@@ -10,7 +10,6 @@ public:
             auto x = mp.begin();
             int  k1 = x->first;
             int v1 = x->second;
-            cout<<k1<<" "<<v1<<endl;
             if(k1==1 || v1==1) return true;
             else return false;
         }
@@ -24,7 +23,6 @@ public:
                 k2 = x.first;
                 v2 = x.second;
             }
-            cout<<k1<<" "<<v1<<" "<<endl<<k2<<" "<<v2<<endl;
             if(k1>k2){
                 swap(k1,k2);
                 swap(v1,v2);
