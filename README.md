@@ -9,6 +9,7 @@ My LeetCode solutions and DSA practice
 | [0001-two-sum](https://github.com/madhav-mg15/leetcode/tree/master/0001-two-sum) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
+| [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -16,6 +17,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/madhav-mg15/leetcode/tree/master/0001-two-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ My LeetCode solutions and DSA practice
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
+| [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -51,6 +54,7 @@ My LeetCode solutions and DSA practice
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
+| [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +81,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+## Bidirectional Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
