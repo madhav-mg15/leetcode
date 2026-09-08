@@ -39,6 +39,7 @@ My LeetCode solutions and DSA practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/madhav-mg15/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
@@ -93,4 +94,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
+## Backtracking
+|  |
+| ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/madhav-mg15/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
