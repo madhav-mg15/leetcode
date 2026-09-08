@@ -24,6 +24,7 @@ My LeetCode solutions and DSA practice
 ## Math
 |  |
 | ------- |
+| [3870-count-commas-in-range](https://github.com/madhav-mg15/leetcode/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
