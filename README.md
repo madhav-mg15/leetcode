@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/madhav-mg15/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -23,6 +24,7 @@ My LeetCode solutions and DSA practice
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +109,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/madhav-mg15/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
