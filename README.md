@@ -15,6 +15,7 @@ My LeetCode solutions and DSA practice
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/madhav-mg15/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -42,6 +43,7 @@ My LeetCode solutions and DSA practice
 | [0063-unique-paths-ii](https://github.com/madhav-mg15/leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/madhav-mg15/leetcode/tree/master/0115-distinct-subsequences) |
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Breadth-First Search
 |  |
@@ -95,6 +97,7 @@ My LeetCode solutions and DSA practice
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/madhav-mg15/leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## String
 |  |
 | ------- |
