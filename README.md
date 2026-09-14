@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -62,6 +63,7 @@ My LeetCode solutions and DSA practice
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -104,6 +106,7 @@ My LeetCode solutions and DSA practice
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## String
 |  |
