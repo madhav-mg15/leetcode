@@ -48,6 +48,7 @@ My LeetCode solutions and DSA practice
 | [0115-distinct-subsequences](https://github.com/madhav-mg15/leetcode/tree/master/0115-distinct-subsequences) |
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Breadth-First Search
 |  |
@@ -113,6 +114,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0115-distinct-subsequences](https://github.com/madhav-mg15/leetcode/tree/master/0115-distinct-subsequences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -141,4 +143,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
