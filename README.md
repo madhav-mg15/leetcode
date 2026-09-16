@@ -34,12 +34,14 @@ My LeetCode solutions and DSA practice
 ## Math
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/madhav-mg15/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/madhav-mg15/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -48,6 +50,7 @@ My LeetCode solutions and DSA practice
 | [0115-distinct-subsequences](https://github.com/madhav-mg15/leetcode/tree/master/0115-distinct-subsequences) |
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Breadth-First Search
@@ -151,4 +154,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
