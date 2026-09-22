@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhav-mg15/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/madhav-mg15/leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/madhav-mg15/leetcode/tree/master/0063-unique-paths-ii) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
@@ -150,6 +151,7 @@ My LeetCode solutions and DSA practice
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/madhav-mg15/leetcode/tree/master/0031-next-permutation) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
