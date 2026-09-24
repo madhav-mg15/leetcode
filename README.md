@@ -21,6 +21,7 @@ My LeetCode solutions and DSA practice
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -37,6 +38,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhav-mg15/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/madhav-mg15/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/madhav-mg15/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
