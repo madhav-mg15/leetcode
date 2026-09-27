@@ -11,7 +11,7 @@ public:
                 int k=i+1;
                 string a="";
                 while(k<n && s[k]>='a' && s[k]<='z') a+=s[k++];
-                if(m.find(a)!=m.end()) st+=m[a];
+                if(m.find(a)!=m.end()) st.append(m[a]);
                 else st+='?';
                 i=k;
             }
