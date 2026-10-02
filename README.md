@@ -79,6 +79,7 @@ My LeetCode solutions and DSA practice
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -88,6 +89,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@ My LeetCode solutions and DSA practice
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -105,11 +108,13 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Union-Find
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -182,6 +187,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Bracket Sequences
 |  |
 | ------- |
