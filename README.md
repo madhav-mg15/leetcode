@@ -20,6 +20,7 @@ My LeetCode solutions and DSA practice
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -80,6 +81,7 @@ My LeetCode solutions and DSA practice
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -128,6 +130,7 @@ My LeetCode solutions and DSA practice
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
@@ -162,6 +165,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,6 +192,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -197,4 +202,16 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhav-mg15/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
