@@ -68,6 +68,7 @@ My LeetCode solutions and DSA practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/madhav-mg15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/madhav-mg15/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
@@ -138,6 +139,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/madhav-mg15/leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/madhav-mg15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-mg15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/madhav-mg15/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhav-mg15/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -156,6 +158,7 @@ My LeetCode solutions and DSA practice
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/madhav-mg15/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/madhav-mg15/leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Recursion
 |  |
