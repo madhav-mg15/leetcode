@@ -86,6 +86,7 @@ My LeetCode solutions and DSA practice
 | [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -106,6 +107,7 @@ My LeetCode solutions and DSA practice
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ My LeetCode solutions and DSA practice
 | [1021-remove-outermost-parentheses](https://github.com/madhav-mg15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhav-mg15/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/madhav-mg15/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -174,6 +177,7 @@ My LeetCode solutions and DSA practice
 ## Enumeration
 |  |
 | ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
