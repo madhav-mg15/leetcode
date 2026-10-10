@@ -5,7 +5,7 @@ public:
         q.push(s);
         int n = s.length();
         string ans = s;
-        set<string> vis;
+        unordered_set<string> vis;
         vis.insert(s);
         b%=n;
         while(!q.empty()){
