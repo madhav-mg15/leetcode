@@ -23,6 +23,7 @@ My LeetCode solutions and DSA practice
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -87,6 +88,7 @@ My LeetCode solutions and DSA practice
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -108,6 +110,7 @@ My LeetCode solutions and DSA practice
 | [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +128,7 @@ My LeetCode solutions and DSA practice
 | [1254-number-of-closed-islands](https://github.com/madhav-mg15/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/madhav-mg15/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +145,7 @@ My LeetCode solutions and DSA practice
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
@@ -184,6 +189,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,4 +251,9 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
