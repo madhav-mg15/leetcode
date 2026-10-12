@@ -26,6 +26,7 @@ My LeetCode solutions and DSA practice
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhav-mg15/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -40,6 +41,7 @@ My LeetCode solutions and DSA practice
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhav-mg15/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -194,6 +196,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhav-mg15/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +209,7 @@ My LeetCode solutions and DSA practice
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhav-mg15/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/madhav-mg15/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhav-mg15/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
