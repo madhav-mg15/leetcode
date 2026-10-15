@@ -22,6 +22,7 @@ My LeetCode solutions and DSA practice
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -66,6 +67,7 @@ My LeetCode solutions and DSA practice
 | [0678-valid-parenthesis-string](https://github.com/madhav-mg15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -119,6 +121,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Tree
 |  |
 | ------- |
