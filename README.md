@@ -47,6 +47,7 @@ My LeetCode solutions and DSA practice
 ## Math
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madhav-mg15/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhav-mg15/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -64,6 +65,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0063-unique-paths-ii](https://github.com/madhav-mg15/leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/madhav-mg15/leetcode/tree/master/0115-distinct-subsequences) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madhav-mg15/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0678-valid-parenthesis-string](https://github.com/madhav-mg15/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1162-as-far-from-land-as-possible](https://github.com/madhav-mg15/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -265,4 +267,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madhav-mg15/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/madhav-mg15/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
