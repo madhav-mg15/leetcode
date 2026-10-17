@@ -30,6 +30,7 @@ My LeetCode solutions and DSA practice
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhav-mg15/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-mg15/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -44,6 +45,7 @@ My LeetCode solutions and DSA practice
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/madhav-mg15/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-mg15/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ My LeetCode solutions and DSA practice
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-mg15/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Tree
 |  |
 | ------- |
