@@ -33,6 +33,7 @@ My LeetCode solutions and DSA practice
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-mg15/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/madhav-mg15/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/madhav-mg15/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ My LeetCode solutions and DSA practice
 | [3870-count-commas-in-range](https://github.com/madhav-mg15/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/madhav-mg15/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/madhav-mg15/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/madhav-mg15/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +131,7 @@ My LeetCode solutions and DSA practice
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhav-mg15/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-mg15/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/madhav-mg15/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +200,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/madhav-mg15/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
