@@ -10,6 +10,7 @@ My LeetCode solutions and DSA practice
 | [0031-next-permutation](https://github.com/madhav-mg15/leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/madhav-mg15/leetcode/tree/master/0063-unique-paths-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhav-mg15/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
@@ -61,6 +62,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/madhav-mg15/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhav-mg15/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhav-mg15/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/madhav-mg15/leetcode/tree/master/2409-count-days-spent-together) |
@@ -146,6 +148,7 @@ My LeetCode solutions and DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
