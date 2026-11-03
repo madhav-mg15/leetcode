@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhav-mg15/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
@@ -315,6 +316,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhav-mg15/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhav-mg15/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -330,26 +332,32 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/madhav-mg15/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/madhav-mg15/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
