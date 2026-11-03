@@ -1,8 +1,6 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int d = *max_element(nums.begin(),nums.end()), ans = 0;
-        for(int &x:nums) ans+=d-x;
-        return ans;
+        return *max_element(nums.begin(),nums.end())*(nums.size()) - accumulate(nums.begin(),nums.end(),0);
     }
 };
