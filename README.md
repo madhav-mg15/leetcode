@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhav-mg15/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 | [1020-number-of-enclaves](https://github.com/madhav-mg15/leetcode/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/madhav-mg15/leetcode/tree/master/1034-coloring-a-border) |
@@ -50,6 +51,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhav-mg15/leetcode/tree/master/0001-two-sum) |
+| [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/madhav-mg15/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -242,6 +244,7 @@ My LeetCode solutions and DSA practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -359,5 +362,10 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
