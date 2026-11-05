@@ -26,6 +26,7 @@ My LeetCode solutions and DSA practice
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-mg15/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -161,6 +162,7 @@ My LeetCode solutions and DSA practice
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/madhav-mg15/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-mg15/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhav-mg15/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/madhav-mg15/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -263,6 +265,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/madhav-mg15/leetcode/tree/master/0031-next-permutation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-mg15/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -325,6 +328,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-mg15/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/madhav-mg15/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/madhav-mg15/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
