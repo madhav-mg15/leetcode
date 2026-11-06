@@ -9,6 +9,7 @@ My LeetCode solutions and DSA practice
 | [0001-two-sum](https://github.com/madhav-mg15/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/madhav-mg15/leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/madhav-mg15/leetcode/tree/master/0063-unique-paths-ii) |
+| [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhav-mg15/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -253,6 +254,7 @@ My LeetCode solutions and DSA practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -379,7 +381,20 @@ My LeetCode solutions and DSA practice
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [2747-count-zero-request-servers](https://github.com/madhav-mg15/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
