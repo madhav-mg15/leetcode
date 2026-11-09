@@ -4,7 +4,7 @@ class Solution {
 public:
     vector<int> busiestServers(int k, vector<int>& arrival, vector<int>& load) {
         set<int> s;
-        unordered_map<int,int> m;
+        vector<int> v(k,0);
         priority_queue<pii,vector<pii>,greater<pii>> pq;
         for(int i=0;i<k;i++) s.insert(i);
         int mx = 0, n = arrival.size(), t = 0;
@@ -18,12 +18,12 @@ public:
             auto it = s.lower_bound(i%k);
             if(it==s.end()) it = s.begin();
             pq.push({t+load[i],*it});
-            m[*it]++;
-            mx = max(mx,m[*it]);
+            v[*it]++;
+            mx = max(mx,v[*it]);
             s.erase(it);
         }
         vector<int> ans;
-        for(auto &x:m) if(x.second==mx) ans.push_back(x.first);
+        for(int i=0;i<k;i++) if(mx==v[i]) ans.push_back(i);
         return ans;
     }
 };
