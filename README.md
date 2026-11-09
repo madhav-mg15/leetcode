@@ -32,6 +32,7 @@ My LeetCode solutions and DSA practice
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/madhav-mg15/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/madhav-mg15/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/madhav-mg15/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/madhav-mg15/leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -265,6 +266,7 @@ My LeetCode solutions and DSA practice
 | [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/madhav-mg15/leetcode/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/madhav-mg15/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/madhav-mg15/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/madhav-mg15/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -380,6 +382,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/madhav-mg15/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Treap
 |  |
 | ------- |
@@ -405,4 +408,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/madhav-mg15/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
