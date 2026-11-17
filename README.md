@@ -114,6 +114,7 @@ My LeetCode solutions and DSA practice
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/madhav-mg15/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madhav-mg15/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/madhav-mg15/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -242,6 +243,7 @@ My LeetCode solutions and DSA practice
 | [2409-count-days-spent-together](https://github.com/madhav-mg15/leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madhav-mg15/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/madhav-mg15/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
@@ -290,6 +292,7 @@ My LeetCode solutions and DSA practice
 | [0031-next-permutation](https://github.com/madhav-mg15/leetcode/tree/master/0031-next-permutation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-mg15/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/madhav-mg15/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Greedy
 |  |
 | ------- |
