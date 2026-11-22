@@ -246,6 +246,7 @@ My LeetCode solutions and DSA practice
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/madhav-mg15/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhav-mg15/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/madhav-mg15/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/madhav-mg15/leetcode/tree/master/2409-count-days-spent-together) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/madhav-mg15/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhav-mg15/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
