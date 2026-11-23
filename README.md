@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/madhav-mg15/leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/madhav-mg15/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/madhav-mg15/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-mg15/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/madhav-mg15/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhav-mg15/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-cherry-pickup-ii](https://github.com/madhav-mg15/leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -83,6 +84,7 @@ My LeetCode solutions and DSA practice
 | [0375-guess-number-higher-or-lower-ii](https://github.com/madhav-mg15/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/madhav-mg15/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/madhav-mg15/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-mg15/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhav-mg15/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madhav-mg15/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -99,6 +101,7 @@ My LeetCode solutions and DSA practice
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-mg15/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madhav-mg15/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -435,4 +438,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/madhav-mg15/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-mg15/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhav-mg15/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
