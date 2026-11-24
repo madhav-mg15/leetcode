@@ -50,6 +50,7 @@ My LeetCode solutions and DSA practice
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/madhav-mg15/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -89,6 +90,7 @@ My LeetCode solutions and DSA practice
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madhav-mg15/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhav-mg15/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/madhav-mg15/leetcode/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhav-mg15/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -279,6 +281,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/madhav-mg15/leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/madhav-mg15/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
@@ -421,6 +424,7 @@ My LeetCode solutions and DSA practice
 | [0480-sliding-window-median](https://github.com/madhav-mg15/leetcode/tree/master/0480-sliding-window-median) |
 | [2747-count-zero-request-servers](https://github.com/madhav-mg15/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
@@ -446,4 +450,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhav-mg15/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
