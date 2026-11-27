@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice
 | [3331-find-subtree-sizes-after-changes](https://github.com/madhav-mg15/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhav-mg15/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/madhav-mg15/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -360,6 +361,7 @@ My LeetCode solutions and DSA practice
 | [1021-remove-outermost-parentheses](https://github.com/madhav-mg15/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhav-mg15/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/madhav-mg15/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -403,6 +405,7 @@ My LeetCode solutions and DSA practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/madhav-mg15/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/madhav-mg15/leetcode/tree/master/0493-reverse-pairs) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/madhav-mg15/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -433,15 +436,18 @@ My LeetCode solutions and DSA practice
 | [2747-count-zero-request-servers](https://github.com/madhav-mg15/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/madhav-mg15/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhav-mg15/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madhav-mg15/leetcode/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -474,4 +480,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/madhav-mg15/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/madhav-mg15/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
